@@ -1,0 +1,105 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.94510,0.84314,0.61569,1.00000",
+      "display-p3:0.89804,0.35686,0.16471,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "display-p3:1.00000,0.99311,0.72219,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "linear-gradient" : [
+                  "display-p3:0.89412,0.30196,0.34902,1.00000",
+                  "display-p3:0.93725,0.77647,0.26275,1.00000"
+                ]
+              }
+            }
+          ],
+          "hidden" : false,
+          "image-name" : "Artboard 1@4x.2.png",
+          "name" : "Artboard 1@4x.2",
+          "opacity-specializations" : [
+            {
+              "value" : 0.95
+            },
+            {
+              "appearance" : "dark",
+              "value" : 0.85
+            }
+          ],
+          "position" : {
+            "scale" : 0.14,
+            "translation-in-points" : [
+              11.734468806088822,
+              0.6102323931555143
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:1.00000,0.50965,0.00000,1.00000",
+              "display-p3:1.00000,0.96283,0.80341,1.00000"
+            ]
+          },
+          "glass" : true,
+          "image-name" : "Artboard 1@4x.1.png",
+          "name" : "Artboard 1@4x.1",
+          "opacity" : 0.95,
+          "position" : {
+            "scale" : 0.14,
+            "translation-in-points" : [
+              16.726369858295698,
+              1.9207314669812905
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:0.96921,0.88315,0.57935,1.00000",
+              "srgb:1.00000,1.00000,1.00000,1.00000"
+            ]
+          },
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Artboard 1@4x.png",
+          "name" : "Artboard 1@4x",
+          "opacity" : 0.95,
+          "position" : {
+            "scale" : 0.14,
+            "translation-in-points" : [
+              18.657105135000847,
+              11.04420593514242
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
